@@ -18,6 +18,8 @@ Payvalida se ha convertido en la pasarela de pagos de mayor crecimiento en Latin
 INSTALACIÓN
 
 Suba la carpeta del plugin al directorio ‘/ wp-content / plugins /’..
+
 Active el plugin a través del menú ‘Plugins’ en WordPress.
+
 ¡Eso es! ahora puede configurar el plugin.
 
