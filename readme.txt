@@ -1,4 +1,4 @@
-=== WooCommerce Payvalida Gateway  ===
+=== WooCommerce Payvalida Tarjetas de Crédito  ===
 Contributors: pmorales
 Donate link:
 Tags: payvalida, woocommerce, tarjeta de crédito, pagos, pasarela de pagos, gateway, payment, Colombia
@@ -7,7 +7,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 == Description ==
-WooCommerce Payvalida Gateway es ideal para integraciones para móviles y escritorio, a través de tu tienda construida en Woocommerce, llegando a miles de consumidores.
+WooCommerce Payvalida Tarjetas de Crédito es ideal para integraciones para móviles y escritorio, a través de tu tienda construida en Woocommerce, llegando a miles de consumidores.
 Puede instalarse sin costos de instalacion, de una manera fácil, segura y sencilla, sin necesidad de generar necesidades adicionales de TI, con las mejores comisiones del mercado, integrada con los principales medios de pago locales en cada uno de los países de la región.
 
 = Features =
@@ -33,4 +33,4 @@ Payvalida se ha convertido en la pasarela de pagos de mayor crecimiento en Latin
 * Versión inicial.
 
 == Translations ==
-* Spanish: WooCommerce Payvalida Gateway
+* Spanish: WooCommerce Payvalida Tarjetas de Crédito
