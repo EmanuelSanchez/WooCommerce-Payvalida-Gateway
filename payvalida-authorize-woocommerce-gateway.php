@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WooCommerce Payvalida Gateway
+Plugin Name: WooCommerce Payvalida Tarjetas de Crédito
 Plugin URI: https://es.wordpress.org/plugins/woo-payvalida-gateway/
 Description: Pague con tarjeta de crédito utilizando Payvalida (Solo Colombia)
 Version: 1.0
